@@ -1,0 +1,4 @@
+#Mon Dec 26 20:24:38 KST 2016
+base.0=D\:\\RealfontWORK\\project\\mua\\android\\MooA\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\RealfontWORK\\project\\mua\\android\\MooA\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

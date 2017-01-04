@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="FFmpegMediaPlayer-1.0.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/com.github.wseemann/FFmpegMediaPlayer/1.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.github.wseemann/FFmpegMediaPlayer/1.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.wseemann/FFmpegMediaPlayer/1.0.4/cf2b75db9263a8600d543e66aa61a63c1266ffc4/FFmpegMediaPlayer-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

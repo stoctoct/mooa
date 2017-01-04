@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\RealfontWORK\project\mua\android\MooA\libs\gcm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\transforms\dex\debug\folders\1000\2\gcm_ecd1c2548861b4a27af4ee6060e8e57cc66ef0d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="527a538acefce4b8dc52ac12eab49b1530db0cd0">
+        <dex dex="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a277208a47e7e37b8cae7209c92616842251da35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-18.0.0_49f31ce8904dbae79be362286bb976a2cf90b61f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b8ce8102799dd1a384962ad365b057f520e01162">
+        <dex dex="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_594974f110b834ee9c5435c0931a2d38f0b1ed95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\exploded-aar\com.github.wseemann\FFmpegMediaPlayer\1.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="31c24a73af6a0d659f746d96da03bc054b376216">
+        <dex dex="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.wseemann-FFmpegMediaPlayer-1.0.4_950c07604a30d887e61d7388ab9dd1e306af2766\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\RealfontWORK\sdk\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f62239a25cdf07dd525d800fbae4779b3cd68808\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\exploded-aar\com.github.wseemann\FFmpegMediaPlayer\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="31c24a73af6a0d659f746d96da03bc054b376216">
+        <dex dex="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\pre-dexed\release\com.github.wseemann-FFmpegMediaPlayer-1.0.4_950c07604a30d887e61d7388ab9dd1e306af2766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-18.0.0_49f31ce8904dbae79be362286bb976a2cf90b61f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RealfontWORK\sdk\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\pre-dexed\release\support-v4-18.0.0_f62239a25cdf07dd525d800fbae4779b3cd68808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RealfontWORK\project\mua\android\MooA\libs\gcm.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="D:\RealfontWORK\project\mua\android\MooA\build\intermediates\pre-dexed\release\gcm_ecd1c2548861b4a27af4ee6060e8e57cc66ef0d1.jar" />
+    </item>
+
+</items>

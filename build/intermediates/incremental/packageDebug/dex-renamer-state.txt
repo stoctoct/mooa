@@ -1,0 +1,7 @@
+#Wed Jan 04 15:30:59 KST 2017
+base.0=D\:\\RealfontWORK\\project\\mua\\android\\MooA\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_594974f110b834ee9c5435c0931a2d38f0b1ed95
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\RealfontWORK\\project\\mua\\android\\MooA\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a277208a47e7e37b8cae7209c92616842251da35\\classes.dex
+base.1=D\:\\RealfontWORK\\project\\mua\\android\\MooA\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a277208a47e7e37b8cae7209c92616842251da35
+file.0=D\:\\RealfontWORK\\project\\mua\\android\\MooA\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_594974f110b834ee9c5435c0931a2d38f0b1ed95\\classes.dex
